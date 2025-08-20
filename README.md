@@ -1,7 +1,15 @@
 # Olá, sou a Isabela 👋  
-## Cientista e Engenheira de Dados 
+## Cientista e Engenheira de Dados (Ela/Dela)
 
 Sou apaixonada por transformar dados em insights estratégicos e construir soluções inteligentes que impactam negócios. Tenho experiência em análise de dados, engenharia de dados e desenvolvimento de pipelines de dados.
+
+---
+
+### 🐍 Cobrinha comendo minhas contribuições
+![Cobra comendo contribuições](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+### 📈 Minhas Contribuições
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=tokyonight)
 
 ---
 
@@ -17,17 +25,16 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 ### 🛠 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="PySpark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg">
   <img align="center" alt="Streamlit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 </div>
 
 ---
 
-### 📂 Projetos em Destaque
-- **Análise de Mercado de Aço e Vergalhões** – Dashboard em Power BI + análise preditiva.  
+### 📂 Projetos em Destaque 
 - **Pipeline RAG com Embeddings** – Automação de classificação de notícias usando Python.  
 - **Web Scraping e Inteligência de Mercado** – Coleta e análise de dados estratégicos para concorrência.  
 
@@ -60,7 +67,7 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 
 ### 🎯 Objetivos
 - Contribuir para projetos de código aberto.
-- Aprender novas tecnologias e linguagens de programação.
+- Aprender novas tecnologias e automações.
 - Expandir minha rede profissional e colaborar com outros desenvolvedores.
 
 ---
@@ -68,12 +75,6 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 ### 🎉 Curiosidades
 - Adoro resolver quebra-cabeças e desafios de lógica.
 - Sou fã de tecnologia e inovação, sempre em busca de aprender algo novo!
-
----
-
-### ✨ Animações
-![Animação de Dados](https://media.giphy.com/media/3o7aD2sa1g0g8g0g0I/giphy.gif)  
-*Transformando dados em insights!*
 
 ---
 
