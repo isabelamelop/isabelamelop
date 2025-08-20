@@ -17,13 +17,10 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 ### 🛠 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Spark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg">
-  <img align="center" alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Databricks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
-</div>
+  </div>
 
 ---
 
