@@ -1,5 +1,5 @@
 # Olá, sou a Isabela 👋  
-## Cientista e Engenheira de Dados  
+## Cientista e Engenheira de Dados
 
 Sou apaixonada por transformar dados em insights estratégicos e construir soluções inteligentes que impactam negócios. Tenho experiência em análise de dados, engenharia de dados e desenvolvimento de pipelines de dados.
 
@@ -20,6 +20,9 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
   <img align="center" alt="Spark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg">
   <img align="center" alt="PowerBI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Databricks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
 </div>
 
 ---
@@ -66,6 +69,12 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 ### 🎉 Curiosidades
 - Adoro resolver quebra-cabeças e desafios de lógica.
 - Sou fã de tecnologia e inovação, sempre em busca de aprender algo novo!
+
+---
+
+### ✨ Animações
+![Animação de Dados](https://media.giphy.com/media/3o7aD2sa1g0g8g0g0I/giphy.gif)  
+*Transformando dados em insights!*
 
 ---
 
