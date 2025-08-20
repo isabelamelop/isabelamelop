@@ -1,16 +1,14 @@
 # Olá, sou a Isabela 👋  
-## Cientista e Engenheira de Dados (Ela/Dela)
+## Cientista e Engenheira de Dados
 
 Sou apaixonada por transformar dados em insights estratégicos e construir soluções inteligentes que impactam negócios. Tenho experiência em análise de dados, engenharia de dados e desenvolvimento de pipelines de dados.
 
 ---
 
-### 🐍 Cobrinha comendo minhas contribuições
-![Cobra comendo contribuições](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### 📈 Minhas Contribuições
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=tokyonight)
-
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=dark)
+![Cobra comendo contribuições](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
 ### 💻 Linguagens de Programação
@@ -53,8 +51,8 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=dark" />
 </div>
 
 ---
