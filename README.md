@@ -41,7 +41,8 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 - **Pipeline RAG com Embeddings** – Automação de classificação de notícias usando Python.  
 - **Web Scraping e Inteligência de Mercado** – Coleta e análise de dados estratégicos para concorrência.  
 
-*(Para mais projetos, veja meu [GitHub]([https://github.com/isabelamelop](https://github.com/isabelamelop?tab=repositories)))*  
+*(Para mais projetos, veja meu [GitHub](https://github.com/isabelamelop?tab=repositories))*
+ 
 
 ---
 
