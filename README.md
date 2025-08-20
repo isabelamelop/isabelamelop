@@ -1,5 +1,5 @@
 # Olá, sou a Isabela 👋  
-## Cientista e Engenheira de Dados (Ela/Dela)
+## Cientista e Engenheira de Dados 
 
 Sou apaixonada por transformar dados em insights estratégicos e construir soluções inteligentes que impactam negócios. Tenho experiência em análise de dados, engenharia de dados e desenvolvimento de pipelines de dados.
 
