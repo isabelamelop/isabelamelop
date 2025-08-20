@@ -24,9 +24,9 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 
 ---
 
-### 📂 Projetos em destaque
-- **Análise de mercado de aço e vergalhões** – Dashboard em Power BI + análise preditiva.  
-- **Pipeline RAG com embeddings** – Automação de classificação de notícias usando Python.  
+### 📂 Projetos em Destaque
+- **Análise de Mercado de Aço e Vergalhões** – Dashboard em Power BI + análise preditiva.  
+- **Pipeline RAG com Embeddings** – Automação de classificação de notícias usando Python.  
 - **Web Scraping e Inteligência de Mercado** – Coleta e análise de dados estratégicos para concorrência.  
 
 *(Para mais projetos, veja meu [GitHub](https://github.com/isabelamelop))*  
@@ -45,4 +45,28 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=tokyonight" />
 </div>
+
+---
+
+### 🌱 Estou Aprendendo
+- **Machine Learning** – Explorando algoritmos e técnicas para análise preditiva.
+- **Data Engineering** – Aprimorando habilidades em construção de pipelines e ETL.
+
+---
+
+### 🎯 Objetivos
+- Contribuir para projetos de código aberto.
+- Aprender novas tecnologias e linguagens de programação.
+- Expandir minha rede profissional e colaborar com outros desenvolvedores.
+
+---
+
+### 🎉 Curiosidades
+- Adoro resolver quebra-cabeças e desafios de lógica.
+- Sou fã de tecnologia e inovação, sempre em busca de aprender algo novo!
+
+---
+
+Sinta-se à vontade para me contatar ou colaborar em projetos!
