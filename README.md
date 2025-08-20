@@ -8,7 +8,8 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 
 ### 📈 Minhas Contribuições
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiisabelamelop=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/isabelamelop/isabelamelop/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 💻 Linguagens de Programação
@@ -25,7 +26,6 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="PySpark" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg">
   <img align="center" alt="Streamlit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 </div>
