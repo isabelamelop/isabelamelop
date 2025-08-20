@@ -8,7 +8,7 @@ Sou apaixonada por transformar dados em insights estratégicos e construir solu�
 
 ### 📈 Minhas Contribuições
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=dark)
-![Cobra comendo contribuições](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?isabelamelop=anuraghazra&hide=contribs,prs)
 ---
 
 ### 💻 Linguagens de Programação
