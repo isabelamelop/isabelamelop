@@ -11,7 +11,8 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
 ---
 
 ### 📈 Minhas Contribuições
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=dark)
+
+![Minhas contribuições](https://github-readme-streak-stats.herokuapp.com/?user=isabelamelop&theme=dark)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelamelop/isabelamelop/output/github-contribution-grid-snake-dark.svg">
@@ -50,13 +51,6 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
 
 *(Confira todos os projetos nos [meus repositórios](https://github.com/isabelamelop?tab=repositories))*
 
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=dark" />
-</div>
 
 ---
 
