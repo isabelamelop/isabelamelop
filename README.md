@@ -42,11 +42,10 @@ Coleta e análise automatizada de dados estratégicos de concorrência.
 
 > Confira todos os projetos nos meus repositórios.
 
-## 📈 GitHub Stats
-
+### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelamelop&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamelop&layout=compact&theme=dark" />
 </div>
 
 📬 Contato
