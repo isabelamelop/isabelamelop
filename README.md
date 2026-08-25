@@ -33,7 +33,6 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
 
 **Dados & Ferramentas**
 <div style="display: inline_block"><br>
-  <img align="center" alt="Databricks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
   <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
