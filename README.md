@@ -10,10 +10,6 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
 
 ---
 
-### 📈 Minhas Contribuições
-
-🔗 [Veja minhas contribuições no GitHub](https://github.com/repos)
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelamelop/isabelamelop/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabelamelop/isabelamelop/output/github-contribution-grid-snake-dark.svg">
