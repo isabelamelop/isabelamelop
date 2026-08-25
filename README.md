@@ -28,6 +28,7 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
   <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
 **Dados & Ferramentas**
 <div style="display: inline_block"><br>
   <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -36,6 +37,7 @@ Estudante de Ciência da Computação e Estagiária de Ciência de Dados, apaixo
   <img align="center" alt="Streamlit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg">
   <img align="center" alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
+
 
 **Foco técnico:** ETL & pipelines de dados · Web Scraping (Selenium, BeautifulSoup) · Machine Learning (Random Forest, XGBoost, LightGBM) · LLMs & RAG · Power BI
 
